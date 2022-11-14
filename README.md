@@ -10,6 +10,9 @@ Industry : Lifestyle
 
 Project Title : E-Commerce Site 
 
+Project Link : https://witty-stone-0b5117000.2.azurestaticapps.net/ 
+project demo video url : 
+
 Problem Statement/Opportunity :E-commerce provides an easy way to sell products to a large customer base. However, there is a lot of competition among multiple e-commerce sites. When users land on an e-commerce site, they expect to find what they are looking for quickly and easily. Also, users are not sure about the brands or the actual products they want to purchase. They have a very broad idea about what they want to buy. Many customers nowadays search for their products on Google rather than visiting specific e-commerce sites. They believe that Google will take them to the e-commerce sites that have their product.
 
 The purpose of any e-commerce website is to help customers narrow down their broad ideas and enable them to finalize the products
