@@ -23,19 +23,19 @@ Project Description : The primary goal of an e-commerce site is to sell goods an
 ##ScreenShots
 
 Interface :
-![Hexashop Ecommerce HTML CSS Template - Google Chrome 14-11-2022 22_15_22](https://user-images.githubusercontent.com/118088942/201717977-3bef115f-528b-47e1-a410-7c6ebcef226f.png)
+
 Mens fashion :
-![Hexashop Ecommerce HTML CSS Template - Google Chrome 14-11-2022 22_15_32](https://user-images.githubusercontent.com/118088942/201718038-df9c7165-2d44-4f75-9866-e3e3e2b42221.png)
+
 womens fashion :
-![Hexashop Ecommerce HTML CSS Template - Google Chrome 14-11-2022 22_15_39](https://user-images.githubusercontent.com/118088942/201718118-f2fb24f0-ca16-4cab-b4fa-ac71b45554ad.png)
+
 Kids fashion :
-![Hexashop Ecommerce HTML CSS Template - Google Chrome 14-11-2022 22_15_44](https://user-images.githubusercontent.com/118088942/201720187-fa7277b9-30c4-4a86-ae11-194306b6471b.png)
+
 Explore page :
-![Hexashop Ecommerce HTML CSS Template - Google Chrome 14-11-2022 22_15_51](https://user-images.githubusercontent.com/118088942/201720461-2ea6ff7b-620c-4cc9-86ec-9298945ab146.png)
+
 Social media for hexashop :
-![Hexashop Ecommerce future ready talent project developed by naseer (2)](https://user-images.githubusercontent.com/118088942/201720548-79825a91-dd84-4b90-8cb1-2577cacda8c1.png)
+
 contact & address page :
-![Hexashop Ecommerce future ready talent project developed by naseer](https://user-images.githubusercontent.com/118088942/201720669-e736d2b8-4694-49bc-9a48-bc54287d686a.png)
+
 
 Primary Azure Technology : Azure Bot Service, Web, Static Web Apps 
 
